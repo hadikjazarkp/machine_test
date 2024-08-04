@@ -1,0 +1,35 @@
+
+.student-details-container {
+    padding: 20px;
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+
+  }
+  
+  .student-details-box {
+    background-color: rgb(202, 0, 0);
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    max-width: 1000px;
+    width: 100%;
+  }
+  
+  h1 {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  p {
+    margin: 10px 0;
+  }
+  
+  strong {
+    display: inline-block;
+    width: 150px;
+    font-weight: bold;
+  }
+  
